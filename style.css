@@ -1,0 +1,32 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+address{
+    text-align: center;
+    
+}
+.h1{
+    text-align: center;
+    color: red;
+    text-transform: capitalize;
+
+
+}
+#id1{
+    text-transform: uppercase;
+    color: red;
+
+}
+span{
+    font-weight: bold;
+    text-transform: capitalize;
+}
+#text{
+    font-weight: bold;
+    text-transform: capitalize;
+}
+#float{
+    float:right; width:70%; clear:right; 
+    padding: 0%;
+}
